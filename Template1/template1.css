@@ -106,8 +106,9 @@ p {
 .right{
     float: right;
     background-color:white;
-    padding: 450px;
-    margin-top: -2400px;
+    padding: 200px;
+    margin-top: -2100px;
+    background-color: rgb(236, 230, 243);
 
 
 }
@@ -123,9 +124,10 @@ p {
     color: white;
     text-decoration: none;
     font-size:2rem;
-    text-align: center;
+    text-align:center;
     padding: 50px;
     width:2000px;
     display: inline-block;
+    margin-left:60px ;
  }
  
