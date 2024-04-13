@@ -9,7 +9,7 @@
     padding: 20px ;
 
     display: flexbox;
-    width: 900px;
+    width: 1000px;
 }
 .girlname{
     position: absolute;
@@ -26,12 +26,12 @@
 }
 
     hr {
-        width: 100%;
+        width: 30%;
         margin-left:16px;
         margin-right: auto;
       }
       .hr1 {
-        width: -1500px;
+        width: 500px;
         margin-left:30px;
         margin-right: auto;
       }
@@ -54,7 +54,7 @@ p {
 
 .container { 
     background-color: rgb(192, 192, 192); 
-    width: 100%; 
+    width: 30%; 
     border-radius: 15px; 
 } 
 
@@ -85,7 +85,7 @@ p {
     text-align: center; 
     font-size: 20px; 
     border-radius: 15px; 
-    width: 100%;
+    width: 30%;
 
 }
 .Spanish{
@@ -104,23 +104,14 @@ p {
 .html7{
     width: 30%;
 }
-/* .right{
-    float: left;
+.right{
+    float: right;
     background-color:white;
     padding: -500px;
     margin-right:-200px ;
     margin-top: -2100px;
     background-color: rgb(236, 230, 243);
 
-
-} */
-.right{
-    
-float: right;
-padding-left: 1000px;
-margin-top: -2000px;
-width: 100%;
-    
 
 }
 .para{
