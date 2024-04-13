@@ -117,6 +117,9 @@ p {
 .right{
     
 float: right;
+padding-left: 1300px;
+margin-top: -2000px;
+width: 100%;
     
 
 }
