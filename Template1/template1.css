@@ -115,11 +115,10 @@ p {
 
 } */
 .right{
-    float: right;
-    background-color:white;
-    margin-top: -2060PX;
-    margin-left: auto;
-    padding: -500px;
+    
+float: right;
+    
+
 }
 .para{
     display:inline-block;
