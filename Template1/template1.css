@@ -9,7 +9,7 @@
     padding: 20px ;
 
     display: flexbox;
-    width: 1000px;
+    width: 900px;
 }
 .girlname{
     position: absolute;
@@ -31,7 +31,7 @@
         margin-right: auto;
       }
       .hr1 {
-        width: 500px;
+        width: -1500px;
         margin-left:30px;
         margin-right: auto;
       }
@@ -104,7 +104,7 @@ p {
 .html7{
     width: 30%;
 }
-.right{
+/* .right{
     float: left;
     background-color:white;
     padding: -500px;
@@ -113,6 +113,13 @@ p {
     background-color: rgb(236, 230, 243);
 
 
+} */
+.right{
+    float: right;
+    background-color:white;
+    margin-top: -2060PX;
+    margin-left: auto;
+    padding: -500px;
 }
 .para{
     display:inline-block;
