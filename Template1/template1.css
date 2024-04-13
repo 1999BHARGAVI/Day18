@@ -9,7 +9,7 @@
     padding: 20px ;
 
     display: flexbox;
-    width: 1000px;
+    
 }
 .girlname{
     position: absolute;
@@ -107,9 +107,9 @@ p {
 .right{
     float: right;
     background-color:white;
-    padding: -500px;
-    margin-right:-200px ;
-    margin-top: -2100px;
+    
+    
+    margin-top:-2000px ;
     background-color: rgb(236, 230, 243);
 
 
