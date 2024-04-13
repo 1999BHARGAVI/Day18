@@ -105,7 +105,7 @@ p {
     width: 30%;
 }
 .right{
-    float: right;
+    float: left;
     background-color:white;
     padding: -500px;
     margin-right:-200px ;
