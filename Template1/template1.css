@@ -106,7 +106,8 @@ p {
 .right{
     float: right;
     background-color:white;
-    padding: 200px;
+    padding: -500px;
+    margin-right:-200px ;
     margin-top: -2100px;
     background-color: rgb(236, 230, 243);
 
